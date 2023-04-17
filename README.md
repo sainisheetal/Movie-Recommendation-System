@@ -43,7 +43,6 @@ Another popular approach to text vectorization is the Term Frequency-Inverse Doc
 
 Text vectorization is an important technique in NLP because it allows machine learning models to analyze and process large volumes of textual data, which can then be used to build applications such as sentiment analysis, chatbots, and information retrieval systems.
 
-Ekran görüntüsü 2023-04-01 185514.png
 
 3. Creating the Cosine Similarity Matrix
 Cosine similarity
