@@ -9,7 +9,8 @@ The tool will take as input the user's favorite movies and shows and recommend n
 The goal is to have a working minimum viable product (MVP) by the end of the project. Each member (or team) in the group should submit a project outline of their MVP on by end of Day 1 to the coach for review and feedback.
 
 
-Steps
+Steps:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. EDA(Exploratory Data Analysis)
 EDA stands for Exploratory Data Analysis, which is an approach to analyzing and summarizing a dataset in order to gain insights and identify patterns and relationships between variables.
 
