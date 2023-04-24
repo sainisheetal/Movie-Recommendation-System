@@ -33,4 +33,4 @@ IDF = log(N / df)
 
 3. Dashboard
 Dashboard
-![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/movie_recomendation.pbix)
+![Dashboard]([https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/movie_recomendation.pbix](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recomendation%20Dashboard.png))
