@@ -10,13 +10,14 @@ The goal is to have a working minimum viable product (MVP) by the end of the pro
 
 
 Steps:
+1. Data Preprocessing
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. EDA(Exploratory Data Analysis)
-----------------------------------
+2. EDA(Exploratory Data Analysis)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EDA stands for Exploratory Data Analysis, which is an approach to analyzing and summarizing a dataset in order to gain insights and identify patterns and relationships between variables.
 
-2. Creating the TF-IDF Matrix
---------------------------------
+3. Creating the TF-IDF Matrix
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 TF
 
 TF stands for Term Frequency and it measures the frequency of a term (i.e., a word or a phrase) in a document. The term frequency of a term t in a document d is calculated as the number of times t appears in d, divided by the total number of terms in d. This calculation normalizes the term frequency by the document length to avoid bias towards longer documents.
@@ -31,10 +32,11 @@ The IDF score of a term is calculated as the logarithm of the total number of do
 
 IDF = log(N / df)
 
-3. Dashboard
+4. Dashboard
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Dashboard
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recomendation%20Dashboard.png)
-This dashboard shows details related to movies. It also shows in which country the movie shooting happen. It shows which movies have what popularity, vote and rating count.
+I have used Powerbi desktop to build this dashboard. This dashboard shows details related to movies. It also shows in which country the movie shooting happen. It shows which movies have what popularity, vote and rating count.
 
 Limitations
 ---------------------------------------------------------------------------------------------------------------------------------------
