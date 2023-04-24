@@ -32,5 +32,5 @@ The IDF score of a term is calculated as the logarithm of the total number of do
 IDF = log(N / df)
 
 3. Dashboard
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dashboard
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/movie_recomendation.pbix)
