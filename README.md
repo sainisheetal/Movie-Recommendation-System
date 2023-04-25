@@ -16,7 +16,9 @@ use Powerbi and using power query to clean the rest of the fields.
 
 3. Creating the TF-IDF Matrix
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+  The TF-IDF matrix using sklearn 
+  The cosine similarity matrix using sklearn
+  
 4. Dashboard
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Dashboard
