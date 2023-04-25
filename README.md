@@ -36,7 +36,7 @@ IDF = log(N / df)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Dashboard
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recomendation%20Dashboard.png)
-I have used Powerbi desktop to build this dashboard. This dashboard shows details related to movies. It also shows in which country the movie shooting happen. It shows which movies have what popularity, vote and rating count.
+I have used Powerbi desktop to build this dashboard. This dashboard shows details related to movies. It also shows in which country movies shooting happen under which production house. It shows which movie is popular, have maximum vote and rating.
 
 Limitations
 ---------------------------------------------------------------------------------------------------------------------------------------
