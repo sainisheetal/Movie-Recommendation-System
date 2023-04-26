@@ -25,9 +25,11 @@ Dashboard
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recomendation%20Dashboard.png)
 I have used Powerbi desktop to build this dashboard. This dashboard shows details related to movies. It also shows in which country movies shooting happen under which production house. It shows which movie is popular, have maximum vote and rating.
 
+
+In below dashboard, User can see the suggestions prescribed by the system on the basis of search. As shown, if i enter initial words its shows movies starting with same alphabets and also recommend list of Action movies (related movies).
+
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/dashboard3.png)
-User can see the suggestions prescribed by the system on the basis of search. As shown, if i enter initial words its shows with the Alphabet and also display list 
-of Action movies (related movies).
+
 Limitations
 ---------------------------------------------------------------------------------------------------------------------------------------
 I am using the free version which has some less functionality. If we work on paid version we will be able to publish our reports and dashboards.
