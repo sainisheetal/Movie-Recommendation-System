@@ -25,6 +25,7 @@ Dashboard
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recomendation%20Dashboard.png)
 I have used Powerbi desktop to build this dashboard. This dashboard shows details related to movies. It also shows in which country movies shooting happen under which production house. It shows which movie is popular, have maximum vote and rating.
 
+![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/dashboard3.png)
 Limitations
 ---------------------------------------------------------------------------------------------------------------------------------------
 I am using the free version which has some less functionality. If we work on paid version we will be able to publish our reports and dashboards.
