@@ -28,7 +28,8 @@ I have used Powerbi desktop to build this dashboard. This dashboard shows detail
 
 
 In below dashboard, User can see the suggestions prescribed by the system on the basis of search. As shown, if i enter initial words its shows movies starting with same alphabets and also recommend list of Action movies (related movies).
-![Dashboard] (https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/NLP%20dashboard.png)
+
+![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/NLP%20dashboard.png)
 
 ![Dashboard](https://github.com/sainisheetal/Movie-Recommendation-System/blob/main/PowerBi/Movie%20Recommendation1.png)
 Limitations
